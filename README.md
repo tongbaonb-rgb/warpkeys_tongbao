@@ -65,4 +65,4 @@ $ python main.py
 欢迎提交 Issue 和 Pull Request！
 
 ## 📄 许可证
-[MIT](LICENSE) © [Your Name]
+[MIT](LICENSE) © tongbao softwares 2026
